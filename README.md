@@ -1,6 +1,4 @@
-# IMCTestWithMSTest
-
-# IMC Calculator with xUnit
+# IMC Calculator with MSTest
 
 This project is a simple application to calculate the Body Mass Index (IMC) and classify it according to standard categories. It includes unit tests implemented with MSTest to ensure the correctness of the calculations.
 
